@@ -2,5 +2,9 @@
   "name": "aframe-billboard-component",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertlong/aframe-billboard-component.git"
+  }
 }
